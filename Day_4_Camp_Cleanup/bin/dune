@@ -1,0 +1,5 @@
+(executable
+ (public_name Day_4_Camp_Cleanup)
+ (name main)
+ (flags (:standard -w -69-34-32-33))
+ (libraries Day_4_Camp_Cleanup base stdio str))

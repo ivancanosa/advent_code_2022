@@ -1,0 +1,4 @@
+(executable
+ (public_name Day_2_Rock_Papers_Scissors)
+ (name main)
+ (libraries Day_2_Rock_Papers_Scissors base stdio))

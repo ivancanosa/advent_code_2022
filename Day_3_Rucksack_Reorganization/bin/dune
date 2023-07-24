@@ -1,0 +1,4 @@
+(executable
+ (public_name Day_3_Rucksack_Reorganization)
+ (name main)
+ (libraries Day_3_Rucksack_Reorganization base stdio))
